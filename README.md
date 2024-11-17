@@ -4,9 +4,10 @@
 ![Flowchart](GAMBAR/flowchart.png)
 
 ## Test
-![Test1](GAMBAR/tampilan%20awal.png)
 
-![Test2](GAMBAR/opsi%202.png)
+![Test1](GAMBAR/opsi%202.png)
+
+![Test2](GAMBAR/tampilan%20awal.png)
 
 ![Test3](GAMBAR/opsi%20tambah.png)
 
